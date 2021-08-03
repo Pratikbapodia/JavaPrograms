@@ -11,7 +11,7 @@ public class StringAnagram {
 			status = false;
 		} else {
 			char[] s1 = a.toLowerCase().toCharArray();
-			char[] s2= b.toLowerCase().toCharArray();
+			char[] s2 = b.toLowerCase().toCharArray();
 			Arrays.sort(s1);
 			Arrays.sort(s2);
 			status = Arrays.equals(s1,s2);

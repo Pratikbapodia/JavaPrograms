@@ -1,4 +1,4 @@
-
+// This program compress the given string.
 public class StringCompression {
 	
 	static String stringCompression(String s) {
