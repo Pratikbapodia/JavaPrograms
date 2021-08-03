@@ -26,7 +26,7 @@ public class StringAnagram {
 	public static void main(String[] args) {
 	 String s1 = "keep";
 	 String s2 = "peek";
-	 stringAnagram(s1, s2);
+	 stringAnagram(s1, s2); //Funtion Call
 	 String s3 = "keep";
 	 String s4 = "donotpeek";
 	 stringAnagram(s3, s4);
